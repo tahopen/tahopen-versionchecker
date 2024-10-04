@@ -1,0 +1,12 @@
+/home/marcio/projetos/migrar-tahopen/tahopen-versionchecker/src/main/java/org/pentaho/versionchecker/IVersionCheckErrorHandler.java
+/home/marcio/projetos/migrar-tahopen/tahopen-versionchecker/src/main/java/org/pentaho/versionchecker/util/IVersionHelper.java
+/home/marcio/projetos/migrar-tahopen/tahopen-versionchecker/src/main/java/org/pentaho/versionchecker/DefaultConsoleResultProcessor.java
+/home/marcio/projetos/migrar-tahopen/tahopen-versionchecker/src/main/java/org/pentaho/versionchecker/util/VersionHelper.java
+/home/marcio/projetos/migrar-tahopen/tahopen-versionchecker/src/main/java/org/pentaho/versionchecker/VersionCheckResourceBundle.java
+/home/marcio/projetos/migrar-tahopen/tahopen-versionchecker/src/main/java/org/pentaho/versionchecker/util/ManifestUtil.java
+/home/marcio/projetos/migrar-tahopen/tahopen-versionchecker/src/main/java/org/pentaho/versionchecker/UUIDUtil.java
+/home/marcio/projetos/migrar-tahopen/tahopen-versionchecker/src/main/java/org/pentaho/versionchecker/BasicVersionCheckerProvider.java
+/home/marcio/projetos/migrar-tahopen/tahopen-versionchecker/src/main/java/org/pentaho/versionchecker/IVersionCheckDataProvider.java
+/home/marcio/projetos/migrar-tahopen/tahopen-versionchecker/src/main/java/org/pentaho/versionchecker/IVersionCheckResultHandler.java
+/home/marcio/projetos/migrar-tahopen/tahopen-versionchecker/src/main/java/org/pentaho/versionchecker/VersionChecker.java
+/home/marcio/projetos/migrar-tahopen/tahopen-versionchecker/src/main/java/org/pentaho/versionchecker/util/VersionInfo.java

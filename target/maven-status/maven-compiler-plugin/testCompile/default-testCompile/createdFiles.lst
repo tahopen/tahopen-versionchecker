@@ -1,0 +1,17 @@
+org/pentaho/versionchecker/DefaultConsoleResultProcessorTest.class
+org/pentaho/versionchecker/util/ManifestUtilTest.class
+org/pentaho/versionchecker/UUIDUtilTest.class
+org/pentaho/versionchecker/VersionCheckerTest$1.class
+org/pentaho/versionchecker/DefaultConsoleResultProcessorTest$ExceptionMock.class
+org/pentaho/versionchecker/VersionCheckerTest$MockErrorHandler.class
+org/pentaho/versionchecker/VersionCheckerTest$MockResultHandler.class
+org/pentaho/versionchecker/BasicVersionCheckerProviderTest.class
+org/pentaho/versionchecker/util/VersionHelperTest.class
+org/pentaho/versionchecker/VersionCheckerTest$MockHttpClient.class
+org/pentaho/versionchecker/util/VersionInfoTest.class
+org/pentaho/versionchecker/VersionCheckerTest$MockGetMethod.class
+org/pentaho/versionchecker/VersionCheckerTest$MockDataProvider.class
+org/pentaho/versionchecker/util/VersionHelperTest$MockManifest$1.class
+org/pentaho/versionchecker/util/VersionHelperTest$MockManifest.class
+org/pentaho/versionchecker/VersionCheckerTest.class
+org/pentaho/versionchecker/util/VersionHelperTest$1.class

@@ -1,0 +1,12 @@
+org/pentaho/versionchecker/BasicVersionCheckerProvider.class
+org/pentaho/versionchecker/UUIDUtil.class
+org/pentaho/versionchecker/util/VersionInfo.class
+org/pentaho/versionchecker/util/IVersionHelper.class
+org/pentaho/versionchecker/VersionCheckResourceBundle.class
+org/pentaho/versionchecker/IVersionCheckErrorHandler.class
+org/pentaho/versionchecker/VersionChecker.class
+org/pentaho/versionchecker/DefaultConsoleResultProcessor.class
+org/pentaho/versionchecker/IVersionCheckDataProvider.class
+org/pentaho/versionchecker/IVersionCheckResultHandler.class
+org/pentaho/versionchecker/util/VersionHelper.class
+org/pentaho/versionchecker/util/ManifestUtil.class
