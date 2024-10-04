@@ -4,7 +4,7 @@
 How to build
 --------------
 
-Pentaho Version Checker uses the maven framework. 
+Tahopen Version Checker uses the maven framework. 
 
 
 #### Pre-requisites for building the project:
