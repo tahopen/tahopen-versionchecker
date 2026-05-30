@@ -1,4 +1,4 @@
-# Hitachi Vantara Version Checker #
+# Tahopen Version Checker #
 
 
 How to build
