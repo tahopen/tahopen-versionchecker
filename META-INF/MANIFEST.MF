@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.2.2
+Build-Jdk-Spec: 11
+Specification-Title: Tahopen Version Checker
+Specification-Version: 0.0
+Specification-Vendor: Tahopen Project
+Implementation-Title: Tahopen Version Checker
+Implementation-Version: 0.1.0.0
+Implementation-Vendor: Tahopen Project
+Implementation-ProductID: tahopen-versionchecker
+Source-Java-Version: 1.8
+Target-Java-Version: 1.8
+
